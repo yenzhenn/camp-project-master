@@ -8,6 +8,11 @@ const activities = [
 		url: 'https://camp.aplusplus.education',
     image:"https://i.pinimg.com/originals/68/16/13/6816133953dc4ea3cc5730cb138cbf4e.jpg"
 	},
+  {
+    title: '樂器演奏',
+    description: '閒暇時會練習',
+    image:"https://th.bing.com/th/id/OIP.nkrLV6BX53BWeGwZX8M9EwHaEK?pid=ImgDet&rs=1"
+  },
 	{
 		title: '敬請期待',
 		description: '尚未開發的領域',
