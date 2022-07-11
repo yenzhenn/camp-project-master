@@ -4,7 +4,7 @@ import {ArrowRightIcon} from "@heroicons/vue/outline";
 const skills = [
 	{
 		title: '運動',
-		description: '很累，但是必須的(加油',
+		description: '不太擅長，但是必須的(加油',
 	},
 	{
 		title: '音樂',
