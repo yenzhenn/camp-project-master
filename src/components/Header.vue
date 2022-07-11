@@ -4,7 +4,7 @@ import {ArrowRightIcon, ChevronDoubleDownIcon} from '@heroicons/vue/solid'
 <template>
 	<section class="bg-[url('/img/https://st.depositphotos.com/1028816/5159/v/450/depositphotos_51594437-stock-illustration-violoncello.jpg)]">
 		<div class="flex flex-col w-full py-12 px-4 lg:px-0 justify-center items-end">
-			<p class="text-2xl text-black font-medium">Hi！我是<span class="text-blue-400">林言臻</span></p>
+			<p class="text-2xl text-black font-medium">Hi！我是<span class="text-black">林言臻</span></p>
 			<h1 class="text-5xl text-right text-black mt-1 font-extrabold">
 				一個喜歡音樂的學生
 			</h1>
